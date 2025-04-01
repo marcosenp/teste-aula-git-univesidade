@@ -2,7 +2,7 @@
 Aula Git Universidade.
 Repositorio para a criação de um novo repositorio.
 
-podemos utilizar varias notaçoes atraves da sintaxe markdown.
+Podemos utilizar varias anotacoes atraves da sintaxe [Markdown](https://www.markdownguide.org/](https://www.markdownguide.org/basic-syntax/)).
 
 podemos usar emojis 👾 🕸 (;-;).
 
